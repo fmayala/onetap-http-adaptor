@@ -1,0 +1,11 @@
+{
+  "name": "http-adaptor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "GPL-3.0-only",
+  "dependencies": {
+    "chokidar": "^3.5.1",
+    "node-fetch": "^2.6.1",
+    "process-list": "^2.0.0"
+  }
+}
